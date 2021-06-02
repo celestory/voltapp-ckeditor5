@@ -1,0 +1,1 @@
+# voltapp-ckeditor5
